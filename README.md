@@ -66,7 +66,7 @@ Além dos scripts de conversão, existe o script que valida a mensagem para toma
 
 ### Catalago Tech
 
-```
+```jsvascript
 () => {
     
     let pedido = new Object();
