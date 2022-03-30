@@ -9,6 +9,7 @@ Além dos scripts de conversão, existe o script que valida a mensagem para toma
 ## Fluxos de exemplos
 
 [Catalago Digital](https://github.com/efjgrub/sz-plugins-catalago/blob/main/flow-pedido-catalagodigital.zip)
+
 [Catalago Tech](https://github.com/efjgrub/sz-plugins-catalago/blob/main/flow-pedido-catalago-tech.zip)
 
 ## Scripts de exemplos
@@ -61,7 +62,7 @@ Além dos scripts de conversão, existe o script que valida a mensagem para toma
  
     return(pedido);
 };
-```javascript
+```
 
 ### Catalago Tech
 
@@ -116,5 +117,5 @@ Além dos scripts de conversão, existe o script que valida a mensagem para toma
 
     return(pedido);
 };
-```javascript
+```
 
